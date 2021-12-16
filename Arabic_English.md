@@ -193,16 +193,23 @@ Arbaic - PC keyboard
 | b              |   ب    |
 | c              |   س    |
 
+## Week Days 
+
+| English                                 | Phonetic         | Arabic       |
+| :-------------------------------------- | :--------------: |:------------:|
+|- Sunday                                 | yaom alahad      | يوم الاحد    | 
+|- Monday                                 | yaom alathnin    | يوم الاثنين  |
+|- Tuesdayday                             | yaom althulathaa | يوم الثلاثاء |
+|- Wednesday                              | yaom alarbiaa    | يوم الاربعاء |
+|- Thursday                               | yaom alkhamiss   | يوم الخميس  |
+|- Friday                                 | yaom aljimaah    | يوم الجمعة  |
+|- Saturday                               | yaom alsabt      | يوم السبت   |
+
 ## Need translations
 
-- You should be in a breakout room.
-- Down the hall to the left.
-- Sunday
-- Monday
-- Tuesdayday
-- Wednesday
-- Thursday
-- Friday
-- Saturday
-- What can I help you with?
-- Is there anything I can help you with?
+| English                                 | Phonetic                                         | Arabic                               |
+||:--------------------------------------:| :-----------------------------------------------:|:------------------------------------:|
+|- You should be in a breakout room.      | yajib 'an takun fi ghurfat aliastirahati.        |.يجب أن تكون في غرفة الاستراحة       |
+|- Down the hall to the left.             | 'asfal alqaeat 'iilaa alyasar                    | أسفل القاعة إلى اليسار             |
+|- What can I help you with?              | be matha yumken an ausadik                       | بماذا يمكن ان اساعدك               |
+|- Is there anything I can help you with? | hal hunak 'ayu shay' yumkinuni musaeadatuk bihi? | هل هناك أي شيء يمكنني مساعدتك به؟ |
