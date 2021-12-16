@@ -207,9 +207,9 @@ Arbaic - PC keyboard
 
 ## Need translations
 
-| English                                 | Phonetic                                         | Arabic                               |
-||:--------------------------------------:| :-----------------------------------------------:|:------------------------------------:|
-|- You should be in a breakout room.      | yajib 'an takun fi ghurfat aliastirahati.        |.يجب أن تكون في غرفة الاستراحة       |
-|- Down the hall to the left.             | 'asfal alqaeat 'iilaa alyasar                    | أسفل القاعة إلى اليسار             |
-|- What can I help you with?              | be matha yumken an ausadik                       | بماذا يمكن ان اساعدك               |
-|- Is there anything I can help you with? | hal hunak 'ayu shay' yumkinuni musaeadatuk bihi? | هل هناك أي شيء يمكنني مساعدتك به؟ |
+| English                                 | Phonetic                                         | Arabic                                 |
+||:-------------------------------------- | :------------------------------------------------|:------------------------------------:  |
+|- You should be in a breakout room.      | yajib 'an takun fi ghurfat aliastirahati.        |.يجب أن تكون في غرفة الاستراحة         |
+|- Down the hall to the left.             | 'asfal alqaeat 'iilaa alyasar                    | أسفل القاعة إلى اليسار               |
+|- What can I help you with?              | be matha yumken an ausadik                       | بماذا يمكن ان اساعدك                 |
+|- Is there anything I can help you with? | hal hunak 'ayu shay' yumkinuni musaeadatuk bihi? | هل هناك أي شيء يمكنني مساعدتك به؟   |
